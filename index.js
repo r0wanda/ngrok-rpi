@@ -7,7 +7,8 @@
 const { existsSync, readFileSync } = require('fs')
 const { join } = require('path')
 
-const { platform, arch } = process
+const { platform } = process
+const arch = 'arm';
 
 let nativeBinding = null
 let localFileExisted = false
