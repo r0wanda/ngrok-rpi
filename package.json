@@ -1,5 +1,5 @@
 {
-  "name": "@ngrok/ngrok",
+  "name": "ngrok-rpi",
   "version": "1.2.0",
   "main": "index.js",
   "types": "index.d.ts",
